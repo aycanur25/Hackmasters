@@ -9,6 +9,6 @@ Bu CTF 3 servisten oluşur:
 ## 🚀 Başlatmak için
 
 ```bash
-git clone https://github.com/aycanur25/ctf_.git
+git clone https://github.com/aycanur25](https://github.com/aycanur25/Hackmasters/tree/main/ctf_.git
 cd ctf_
 docker-compose up
