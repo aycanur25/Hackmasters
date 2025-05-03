@@ -1,0 +1,16 @@
+version: '3'
+services:
+  crypto:
+    build: ./crypto
+    ports:
+      - "8001:8000"
+
+  osint:
+    build: ./osint
+    ports:
+      - "8002:80"
+
+  web:
+    build: ./web
+    ports:
+      - "8003:8000"
